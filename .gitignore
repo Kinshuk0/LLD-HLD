@@ -39,3 +39,22 @@
 
 # debug information files
 *.dwo
+
+# Executables
+main
+a.out
+*.exe
+*.out
+
+# macOS executables
+*.dSYM
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
